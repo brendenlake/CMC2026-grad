@@ -8,7 +8,7 @@ layout: default
 
 [**Prof. Brenden Lake**](https://www.cs.princeton.edu/~bl8144/)
 
-Course announcements and general questions will be handled through Ed.
+Course announcements and general questions will be handled through Ed. Readings are available on Canvas under "Modules".
 
 ---
 
@@ -23,13 +23,13 @@ We use Ed Discussion for course questions and weekly respones to the readings.
 
 | Name | Email/Username | Office Hours | Location |
 |---|---|---|---|
-| Brenden Lake | `brenden` | Tu 4:00–5:00PM |  Peretsman Scully Hall 117 |
+| Brenden Lake | `brenden` | Tuesday 4–5 PM | Peretsman Scully Hall 117 |
 
 **TA** (post on Ed for general questions):
 
 | Name | Email/Username | Office Hours | Location |
 |---|---|---|---|
-| Phoebe Zeng | `pk1124` | TBD | TBD |
+| Phoebe Zeng | `pk1124` | Friday 2-3 PM | Computer Science 003 |
 
 ## Course Summary
 
@@ -87,7 +87,8 @@ so there is no need to copy things down, and paper notes are great too.
 
 ---
 
-## Schedule
+## Schedule  
+Readings are available on Canvas under "Modules"
 
 **Wednesday, September 2 — Lecture 1: Introduction**
 - Marr, D. (1982). *Vision.* San Francisco: W. H. Freeman. Chapter 1.
@@ -100,7 +101,7 @@ so there is no need to copy things down, and paper notes are great too.
 
 **Wednesday, September 9 — Lecture 2: Categorization 1**
 <!-- prototype and exemplar models -->
-- Murphy, G. L. *The Big Book of Concepts.* Cambridge, MA: MIT Press. Chapters 2 and 3.
+- Murphy, G. L. (2003). *The Big Book of Concepts.* Cambridge, MA: MIT Press. Chapters 2 and 3.
 - Rosch, E., & Mervis, C. (1975). Family resemblances: Studies in the internal structure of categories. *Cognitive Psychology, 7*, 573–605.
 - Medin, D., & Schaffer, M. (1978). Context theory of classification. *Psychological Review, 85*, 207–238.
 
@@ -120,7 +121,7 @@ so there is no need to copy things down, and paper notes are great too.
 
 **Monday, September 21 — Lecture 5: Neural networks 1**
 - Marr, D. (1982). *Vision.* San Francisco: W. H. Freeman. Chapter 1.
-- McClelland, J. L., Rumelhart, D. E., & Hinton, G. E. The Appeal of Parallel Distributed Processing. Vol I, Ch 1.
+- McClelland, J. L., Rumelhart, D. E., & Hinton, G. E. (1986). The Appeal of Parallel Distributed Processing. Vol I, Ch 1.
 - LeCun, Y., Bengio, Y., & Hinton, G. (2015). Deep learning. *Nature, 521*, 436–444.
 
 **Wednesday, September 23 — Lecture 6: Neural networks 2**
