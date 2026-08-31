@@ -55,6 +55,12 @@ This book is referred to as ***BMC*** in the rest of the syllabus and is availab
 
 Many classes also use primary sources in cognitive science, which will be available as PDF files on Canvas. The optional readings are listed for your interest only, and provide a feel for the of the discipline.
 
+Finally, the perfect companion book for this class is:
+
+> Griffiths, T. (2026). **The Laws of Thought: The Quest for a Mathematical Theory of the Mind.** HarperCollins UK. 
+
+This book walks through the three main paradigms that organize this class, with a focus on their history and key developments. 
+
 ## Course Requirements
 
 | Requirement | Percentage of Final Grade |
