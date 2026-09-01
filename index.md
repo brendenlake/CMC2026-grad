@@ -25,6 +25,8 @@ We use Ed Discussion for course questions and weekly respones to the readings.
 |---|---|---|---|
 | Brenden Lake | `brenden` | Tuesday 4–5 PM | Peretsman Scully Hall 117 |
 
+Note, **Sept. 1** Tuesday 4-4:30 PM ONLY
+
 **TA** (post on Ed for general questions):
 
 | Name | Email/Username | Office Hours | Location |
