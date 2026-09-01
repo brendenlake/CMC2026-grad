@@ -76,7 +76,9 @@ thought you had about the topic. Notes should be submitted by midnight on
 Tuesday for the following class.
 
 ## Final project guidelines
-Please see Canvas.
+Please see Canvas for the details of the final project specifications.
+- Proposal is due Wednesday, October 14, midnight
+- Final project is due Wednesday, December 16, midnight
 
 ## Course Policies
 
@@ -169,6 +171,7 @@ Readings are available on Canvas under "Modules"
 - MacKay, D. (2003). Chapter 29: Monte Carlo Methods. In *Information Theory, Inference, and Learning Algorithms*.
 
 **Wednesday, October 14 — Discussion of lectures and readings for the week**
+- **Final project proposal is due**
 
 **Monday, October 19 & Wednesday, October 21 — Fall Break - No class**
 
@@ -236,4 +239,4 @@ Readings are available on Canvas under "Modules"
 
 **Monday, December 7 — Lecture 24: Course speedrun and AMA**
 
-<!-- **Date XX (note time!)** — Final project due -->
+**Wednesday, December 16, midnight — Final project due**
