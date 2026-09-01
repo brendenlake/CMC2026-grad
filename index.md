@@ -67,15 +67,16 @@ This book walks through the three main paradigms that organize this class, with 
 
 | Requirement | Percentage of Final Grade |
 |---|---|
-| Discussion notes | 30% |
+| Responses to readings | 30% |
 | Participation | 10% |
 | Final project | 60% |
 
-Discussion notes should be a couple of paragraphs inspired by the readings
+Reactions to readers should be a couple of paragraphs inspired by the readings
 for the week. They can raise a question that came up for you when reading
 (and give your thoughts about it), point to related ideas, or highlight a
 thought you had about the topic. Notes should be submitted by midnight on
-Tuesday for the following class.
+Tuesday for the following class. No AI is allowed in drafting your responses, either the ideas or the text itself.
+We want your raw thoughts, ideas, and reactions, not polished text or AI ideas.
 
 ## Final project guidelines
 Please see Canvas for the details of the final project specifications.
@@ -85,6 +86,8 @@ Please see Canvas for the details of the final project specifications.
 ## Course Policies
 
 - **Classes start on time.** Important administrative announcements will sometimes be made at the start of class. Please make sure to come with enough time in advance so that you don't miss anything!
+
+- **Use of AI assistants on responses to readings.** No AI is allowed in drafting your responses, either the ideas or the text itself. We want your raw thoughts and reactions, not polishsed text or AI ideas.
 
 - **Use of AI assistants on projects.** Please check back soon for our policy.
 
@@ -162,83 +165,81 @@ Readings are available on Canvas under "Modules"
 
 **Wednesday, October 7 — Discussion of lectures and readings for the week**
 
+**Monday, October 12 — No class — PSY/COS 360 midterm during this slot**
+
 ### Part III: Bayesian models
 
-**Monday, October 12 — Lecture 11: Bayesian models 1**
+**Wednesday, October 14 — Lecture 11: Bayesian models 1**
 - Griffiths, T. L. & Tenenbaum, J. B. (2024). Bayesian inference. *BMC*, Chapter 3.
 - Tenenbaum, J. B., & Griffiths, T. L. (2001). Generalization, similarity, and Bayesian inference. *Behavioral and Brain Sciences, 24*, 629–641.
-
-**Wednesday, October 14 — Lecture 12: Bayesian models 2**
-- Tenenbaum, J. B., Kemp, C., Griffiths, T. L., & Goodman, N. D. (2011). How to grow a mind: Statistics, structure, and abstraction. *Science*, 331(6022), 1279-1285.
-- MacKay, D. (2003). Chapter 29: Monte Carlo Methods. In *Information Theory, Inference, and Learning Algorithms*.
 
 **Wednesday, October 14 — Discussion of lectures and readings for the week**
 - **Final project proposal is due**
 
 **Monday, October 19 & Wednesday, October 21 — Fall Break - No class**
 
-**Monday, October 26 — Lecture 13: Bayesian models 3**
+**Monday, October 26 — Lecture 12: Bayesian models 2**
+- Tenenbaum, J. B., Kemp, C., Griffiths, T. L., & Goodman, N. D. (2011). How to grow a mind: Statistics, structure, and abstraction. *Science*, 331(6022), 1279-1285.
+- MacKay, D. (2003). Chapter 29: Monte Carlo Methods. In *Information Theory, Inference, and Learning Algorithms*.
+
+**Wednesday, October 28 — Lecture 13: Bayesian models 3**
 - Goodman, N. D., Tenenbaum, J. B., Feldman, J., & Griffiths, T. L. (2008). A rational analysis of rule‐based concept learning. *Cognitive Science*, 32(1), 108-154.
 - Anderson, J. R. (1991). The adaptive nature of human categorization. *Psychological Review*, 98(3), 409.
 
-**Wednesday, October 28 — Lecture 14: Probabilistic Graphical models**
+**Wednesday, October 28 — Discussion of lectures and readings for the week**
+
+**Monday, November 2 — Lecture 14: Probabilistic Graphical models**
 - Griffiths, T. L. & Yuille, A. (2024). Graphical models. *BMC*, Chapter 4.
 - Kemp, C., & Tenenbaum, J. B. (2008). The discovery of structural form. Proceedings of the National Academy of Sciences, 105(31), 10687-10692.
 
-**Wednesday, October 28 — Discussion of lectures and readings for the week**
-
-**Monday, November 2 — Lecture 15: Program induction and language of thought models**
+**Wednesday, November 4 — Lecture 15: Program induction and language of thought models**
 - Ghahramani, Z. (2015). Probabilistic machine learning and artificial intelligence. *Nature, 521*(7553), 452.
 - Goodman, N. D., Tenenbaum, J. B., & Gerstenberg, T. (2014). Concepts in a probabilistic language of thought. Center for Brains, Minds and Machines (CBMM).
 - Lake, B. M., Salakhutdinov, R., & Tenenbaum, J. B. (2015). Human-level concept learning through probabilistic program induction. *Science, 350*(6266), 1332–1338.
 
-**Wednesday, November 4 — Lecture 16: Unifying Bayesian models and neural networks**
+**Wednesday, November 4 — Discussion of lectures and readings for the week**
+
+**Monday, November 9 — Lecture 16: Unifying Bayesian models and neural networks**
 - Griffiths, T. L., Lake, B. M., McCoy, R. T., Pavlick, E., & Webb, T. W. (2025). *Whither symbols in the era of advanced neural networks?*Trends in Cognitive SCience.
 - Lake, B. M., Jagadish, A., & Jiang, G. (2026). *More accurate behavioral predictions with hybrid Bayesian-connectionist models.* arXiv preprint.
 - McCoy, R. T., & Griffiths, T. L. (2025). Modeling rapid language learning by distilling Bayesian priors into artificial neural networks. *Nature Communications, 16*, 4676.
 
-**Wednesday, November 4 — Discussion of lectures and readings for the week**
-
 ### Part IV: Symbols and rules; historical foundations
 
-**Monday, November 9 — Lecture 17: Formal systems and propositional logic**
+**Wednesday, November 11 — Lecture 17: Formal systems and propositional logic**
 - *AIMA4* or *AIMA3*, Section 7.4.
 - Haugeland, J. (1997). What is mind design? In J. Haugeland (Ed.) *Mind Design II: Philosophy, Psychology, Artificial Intelligence.* Cambridge, MA: MIT Press. (only pages 8–21)
 - Feldman, J. (2000). Minimization of Boolean complexity in human concept learning. *Nature, 407*, 630–633.
 
-**Wednesday, November 11 — Lecture 18: Production systems and cognitive architectures**
+**Wednesday, November 11 — Discussion of lectures and readings for the week**
+
+**Monday, November 16 — Lecture 18: Production systems and cognitive architectures**
 - Anderson, J. R. (1996). ACT: A simple theory of complex cognition. *American Psychologist, 51*, 355–365.
 - Newell, A., Rosenbloom, P. S., & Laird, J. E. (1989). Symbolic architectures for cognition. In M. I. Posner (Ed.), *Foundations of Cognitive Science*, 93–131. Cambridge, MA: MIT Press.
 - Newell, A., & Simon, H. (1956). The logic theory machine — A complex information processing system. *IRE Transactions on Information Theory, 2*, 61–79.
 
-**Wednesday, November 11 — Discussion of lectures and readings for the week**
-
-**Monday, November 16 — Lecture 19: Language as a formal system**
+**Wednesday, November 18 — Lecture 19: Language as a formal system**
 - *AIMA4*, pages 833–835, or *AIMA3*, pages 888–892.
 - Chomsky, N. (1957). *Syntactic Structures.* The Hague: Mouton. Pages 11–48.
 
-**Wednesday, November 18 — Lecture 20: Learning and the poverty of the stimulus**
+**Wednesday, November 18 — Discussion of lectures and readings for the week**
+
+**Monday, November 23 — Lecture 20: Learning and the poverty of the stimulus**
 - Pinker, S. (1979). Formal models of language learning. *Cognition, 7*, 217–283. (only pages 217–234)
 - Johnson, K. (2004). Gold's theorem and cognitive science. *Philosophy of Science, 71*, 571–592.
 - Gold, E. M. (1967). Language identification in the limit. *Information and Control, 10*, 447–474.
 
-**Wednesday, November 18 — Discussion of lectures and readings for the week**
-
-**Monday, November 23 — Lecture 21: TBD**
-- TBD
-
 **Wednesday, November 25 — Thanksgiving break -- No class**
-- TBD
 
-**Monday, November 30 — Lecture 22: Unifying symbols, probabilities, and networks**
+**Monday, November 30 — Lecture 21: Unifying symbols, probabilities, and networks**
 - TBD
 
 ### Part V: The End
 
-**Wednesday, December 2 — Lecture 23: Auto-experimentation in cognitive science (guest lecture)**
+**Wednesday, December 2 — Lecture 22: Auto-experimentation in cognitive science (guest lecture)**
 
 **Wednesday, December 2 — Discussion: Presentations of final projects**
 
-**Monday, December 7 — Lecture 24: Course speedrun and AMA**
+**Monday, December 7 — Lecture 23: Course speedrun and AMA**
 
 **Wednesday, December 16, midnight — Final project due**
