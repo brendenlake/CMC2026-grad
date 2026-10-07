@@ -80,7 +80,7 @@ We want your raw thoughts, ideas, and reactions, not polished text or AI ideas.
 
 ## Final project guidelines
 Please see Canvas for the details of the final project specifications.
-- Proposal is due Wednesday, October 14, midnight
+- Proposal is due Wednesday, October 28, midnight
 - Final project is due Wednesday, December 16, midnight
 
 ## Course Policies
@@ -174,7 +174,6 @@ Readings are available on Canvas under "Modules"
 - Tenenbaum, J. B., & Griffiths, T. L. (2001). Generalization, similarity, and Bayesian inference. *Behavioral and Brain Sciences, 24*, 629–641.
 
 **Wednesday, October 14 — Discussion of lectures and readings for the week**
-- **Final project proposal is due**
 
 **Monday, October 19 & Wednesday, October 21 — Fall Break - No class**
 
@@ -185,6 +184,7 @@ Readings are available on Canvas under "Modules"
 **Wednesday, October 28 — Lecture 13: Bayesian models 3**
 - Goodman, N. D., Tenenbaum, J. B., Feldman, J., & Griffiths, T. L. (2008). A rational analysis of rule‐based concept learning. *Cognitive Science*, 32(1), 108-154.
 - Anderson, J. R. (1991). The adaptive nature of human categorization. *Psychological Review*, 98(3), 409.
+- **Final project proposal is due**
 
 **Wednesday, October 28 — Discussion of lectures and readings for the week**
 
