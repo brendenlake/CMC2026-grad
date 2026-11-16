@@ -231,8 +231,7 @@ Readings are available on Canvas under "Modules"
 
 **Wednesday, November 25 — Thanksgiving break -- No class**
 
-**Monday, November 30 — Lecture 21: Unifying symbols, probabilities, and networks**
-- TBD
+**Monday, November 30 — Lecture 21: More symbols and rules**
 
 ### Part V: The End
 
