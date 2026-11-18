@@ -224,20 +224,20 @@ Readings are available on Canvas under "Modules"
 
 **Wednesday, November 18 — Discussion of lectures and readings for the week**
 
-**Monday, November 23 — Lecture 20: Learning and the poverty of the stimulus**
+**Monday, November 23 — Lecture 20: Learning and the poverty of the stimulus 1**
 - Pinker, S. (1979). Formal models of language learning. *Cognition, 7*, 217–283. (only pages 217–234)
 - Johnson, K. (2004). Gold's theorem and cognitive science. *Philosophy of Science, 71*, 571–592.
 - Gold, E. M. (1967). Language identification in the limit. *Information and Control, 10*, 447–474.
 
 **Wednesday, November 25 — Thanksgiving break -- No class**
 
-**Monday, November 30 — Lecture 21: More symbols and rules**
+**Monday, November 30 — Lecture 21: Learning and the poverty of the stimulus 2**
 
 ### Part V: The End
 
 **Wednesday, December 2 — Lecture 22: Auto-experimentation in cognitive science (guest lecture)**
 
-**Wednesday, December 2 — Discussion: Presentations of final projects**
+**Wednesday, December 2 — Discussion (Optional): Project help from Brenden and Phoebe.
 
 **Monday, December 7 — Lecture 23: Course speedrun and AMA**
 
